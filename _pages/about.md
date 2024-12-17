@@ -7,15 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student enrolled in a combined master's and doctoral program supervised by Prof. [Yongli Hu](https://ieeexplore.ieee.org/author/37420507000) ([胡永利](https://baike.baidu.com/item/%E8%83%A1%E6%B0%B8%E5%88%A9/18610606?fr=ge_ala)) at Beijing University of Technology（北京工业大学）. Now, I am a joint Ph.D. student at University of Technology Sydney, supervised by Prof. [Xiaojun Chang](https://ieeexplore.ieee.org/author/37085779024)([常晓军](https://www.xiaojun.ai/)) and Prof. [Hanyu Gu](https://profiles.uts.edu.au/Hanyu.Gu)." My research interests include long document understanding, multi-modal representation, and Radiology Report Generation.
+I am a Ph.D. student enrolled in a combined master's and doctoral program supervised by Prof. [Yongli Hu](https://ieeexplore.ieee.org/author/37420507000) ([胡永利](https://baike.baidu.com/item/%E8%83%A1%E6%B0%B8%E5%88%A9/18610606?fr=ge_ala)) at Beijing University of Technology（北京工业大学）. Now, I am a joint Ph.D. student at University of Technology Sydney, supervised by Prof. [Xiaojun Chang](https://ieeexplore.ieee.org/author/37085779024)([常晓军](https://www.xiaojun.ai/)) and Prof. [Hanyu Gu](https://profiles.uts.edu.au/Hanyu.Gu)." My research interests include Long Document Understanding, Multi-modal Representation, and Radiology Report Generation.
 
 ## Datasets
 - Hierarchical Graph Convolutional Network for Structured Long Document Classification[[Link]](https://drive.google.com/drive/folders/1GAQJ0oWRObOuFIbTeVE8vFI0zBkRG1pa)
 - Hierarchical Multi-modal Prompt Transformer for Multi-modal Long Document Classification [[Link]](https://drive.google.com/drive/folders/1759nBGt7J0ZkUK8-jSbAys9_SANQVC-E)
 
 # <i><span style="color:red;">News</span></i>
-* **<span style="color:red;">[Paper:]</span>** Our paper "[Hierarchical Multi-modal Transformer for Cross-modal Long Document Classification
-](https://arxiv.org/abs/2407.10105) is now available’’.(July 2024)
+* **<span style="color:red;">[Paper:]</span>** Our paper "[HC-LLM: Historical-Constrained Large Language Models for Radiology Report Generation](https://arxiv.org/pdf/2412.11070) has been accepted by AAAI2025.’’.(December 2024)
+
+* **<span style="color:red;">[Paper:]</span>** Our paper "[Balancing Accuracy and Efficiency with a Multiscale Uncertainty-aware Knowledge-based Network for Transmission Line Inspection] has been accepted by TII.’’.(November 2024)
+
+* **<span style="color:red;">[Paper:]</span>** Our paper "[Hierarchical Multi-modal Transformer for Cross-modal Long Document Classification](https://arxiv.org/abs/2407.10105) is now available’’.(July 2024)
   
 * **<span style="color:red;">[Paper:]</span>** Our paper "[Teaching with Uncertainty: Unleashing the Potential of Knowledge Distillation in Object Detection](https://arxiv.org/pdf/2406.06999) is now available’’.(June 2024)
   
