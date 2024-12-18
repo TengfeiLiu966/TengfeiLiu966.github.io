@@ -15,4 +15,5 @@ This paper proposes a novel Historical-Constrained Large Language Models (HC-LLM
 ## Framework Overview
 
 ![HC-LLM Framework](/images/HC-LLM.jpg)
+
 *Figure 1: The HC-LLM framework for radiology report generation.*
