@@ -20,5 +20,11 @@ layout: default
       <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}
     {{ content }}
+
+    {% if page.paperurl %}
+      <p>
+        📄 <a href="{{ page.paperurl }}" target="_blank">Read the Paper</a>
+      </p>
+    {% endif %}
   </div>
 </div>
