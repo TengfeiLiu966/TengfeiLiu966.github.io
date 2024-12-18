@@ -3,6 +3,7 @@ title: "HC-LLM: Historical-Constrained Large Language Models for Radiology Repor
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-1
 excerpt: 'This paper proposes a novel Historical-Constrained Large Language Models (HC-LLM) framework for RRG, empowering LLMs with longitudinal report generation capabilities by constraining the consistency and differences between longitudinal images and their corresponding reports.'
+Framework:![HC-LLM Framework](/images/HC-LLM.jpg)
 date: 2024-12-10
 venue: 'AAAI2025'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
@@ -12,4 +13,4 @@ citation: 'Liu, Tengfei, Jiapu Wang, Yongli Hu, Mingjie Li, Junfei Yi, Xiaojun C
 
 This paper proposes a novel Historical-Constrained Large Language Models (HC-LLM) framework for RRG, empowering LLMs with longitudinal report generation capabilities by constraining the consistency and differences between longitudinal images and their corresponding reports.
 
-![HC-LLM Framework](/images/HC-LLM.jpg)
+
