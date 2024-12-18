@@ -11,3 +11,5 @@ citation: 'Liu, Tengfei, Jiapu Wang, Yongli Hu, Mingjie Li, Junfei Yi, Xiaojun C
 ---
 
 This paper proposes a novel Historical-Constrained Large Language Models (HC-LLM) framework for RRG, empowering LLMs with longitudinal report generation capabilities by constraining the consistency and differences between longitudinal images and their corresponding reports.
+
+![HC-LLM Framework](/images/HC-LLM.jpg)
