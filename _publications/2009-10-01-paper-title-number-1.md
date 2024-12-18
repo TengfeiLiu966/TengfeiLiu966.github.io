@@ -6,7 +6,7 @@ excerpt: 'This paper proposes a novel Historical-Constrained Large Language Mode
 date: 2024-12-10
 venue: 'AAAI2025'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://arxiv.org/abs/2412.11070'
+paperurl: "https://arxiv.org/abs/2412.11070"
 citation: 'Liu, Tengfei, Jiapu Wang, Yongli Hu, Mingjie Li, Junfei Yi, Xiaojun Chang, Junbin Gao and Baocai Yin. “HC-LLM: Historical-Constrained Large Language Models for Radiology Report Generation.” (2024).'
 ---
 
