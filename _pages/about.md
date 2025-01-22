@@ -18,7 +18,7 @@ I am a Ph.D. student enrolled in a combined master's and doctoral program superv
 
 * **<span style="color:red;">[Paper:]</span>** Our paper "[HC-LLM: Historical-Constrained Large Language Models for Radiology Report Generation](https://arxiv.org/pdf/2412.11070) has been accepted by AAAI2025.’’(December 2024)
 
-* **<span style="color:red;">[Paper:]</span>** Our paper "[Balancing Accuracy and Efficiency with a Multiscale Uncertainty-aware Knowledge-based Network for Transmission Line Inspection] has been accepted by TII.’’(November 2024)
+* **<span style="color:red;">[Paper:]</span>** Our paper "[Balancing Accuracy and Efficiency with a Multiscale Uncertainty-aware Knowledge-based Network for Transmission Line Inspection](https://ieeexplore.ieee.org/abstract/document/10841846) has been accepted by TII.’’(November 2024)
 
 * **<span style="color:red;">[Paper:]</span>** Our paper "[Hierarchical Multi-modal Transformer for Cross-modal Long Document Classification](https://arxiv.org/abs/2407.10105) is now available.’’(July 2024)
   
