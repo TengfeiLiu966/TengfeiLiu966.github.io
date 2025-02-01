@@ -15,7 +15,7 @@ I am a Ph.D. student enrolled in a combined master's and doctoral program superv
 
 # <i><span style="color:red;">News</span></i>
 * **<span style="color:red;">[Paper:]</span>** Our paper "[Tackling Real-world Complexity: Hierarchical Modeling and Dynamic Prompting for Multimodal Long Document Classification](https://physionet.org/content/ffa-ir-medical-report/1.1.0/) has been accepted by TCSVT.’’(January 2025)
-* 
+  
 * **<span style="color:red;">[Paper:]</span>** Our dataset "[FFA-IR: Towards an Explainable and Reliable Medical Report Generation Benchmark (version 1.1.0)](https://physionet.org/content/ffa-ir-medical-report/1.1.0/) has been published on the platform of PhysioNet.’’(January 2025)
 
 * **<span style="color:red;">[Paper:]</span>** Our paper "[HC-LLM: Historical-Constrained Large Language Models for Radiology Report Generation](https://arxiv.org/pdf/2412.11070) has been accepted by AAAI2025.’’(December 2024)
