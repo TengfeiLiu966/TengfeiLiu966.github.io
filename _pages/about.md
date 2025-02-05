@@ -14,7 +14,7 @@ I am a Ph.D. student enrolled in a combined master's and doctoral program superv
 - Multi-modal Long Document Classification Datasets[[Link]](https://drive.google.com/drive/folders/1759nBGt7J0ZkUK8-jSbAys9_SANQVC-E)
 
 # <i><span style="color:red;">News</span></i>
-* **<span style="color:red;">[Paper:]</span>** Our paper "[Tackling Real-world Complexity: Hierarchical Modeling and Dynamic Prompting for Multimodal Long Document Classification](https://physionet.org/content/ffa-ir-medical-report/1.1.0/) has been accepted by TCSVT.’’(January 2025)
+* **<span style="color:red;">[Paper:]</span>** Our paper "[Tackling Real-world Complexity: Hierarchical Modeling and Dynamic Prompting for Multimodal Long Document Classification](https://ieeexplore.ieee.org/document/10869505) has been accepted by TCSVT.’’(January 2025)
   
 * **<span style="color:red;">[Paper:]</span>** Our dataset "[FFA-IR: Towards an Explainable and Reliable Medical Report Generation Benchmark (version 1.1.0)](https://physionet.org/content/ffa-ir-medical-report/1.1.0/) has been published on the platform of PhysioNet.’’(January 2025)
 
