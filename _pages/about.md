@@ -17,13 +17,13 @@ My research interests include Long Document Understanding, Multi-modal Represent
 
 # 📢 <span style="color:red;">News</span>
 
-* 🗓️ [2025-03-11] Our paper "Hierarchical Multi-modal Transformer for Cross-modal Long Document Classification has been accepted by *IEEE Transactions on Multimedia*(JCR一区，中科院一区，影响因子8.4).’’
+* 🗓️ [2025-03] Our paper "Hierarchical Multi-modal Transformer for Cross-modal Long Document Classification has been accepted by *IEEE Transactions on Multimedia*(JCR一区，中科院一区，影响因子8.4).’’
   
-* 🗓️ [2025-01-11] Our paper "[Tackling Real-world Complexity: Hierarchical Modeling and Dynamic Prompting for Multimodal Long Document Classification](https://ieeexplore.ieee.org/document/10869505) has been accepted by **IEEE Transactions on Circuits and Systems for Video Technology(TCSVT)**.’’
+* 🗓️ [2025-01] Our paper "[Tackling Real-world Complexity: Hierarchical Modeling and Dynamic Prompting for Multimodal Long Document Classification](https://ieeexplore.ieee.org/document/10869505) has been accepted by *IEEE Transactions on Circuits and Systems for Video Technology*(JCR一区，中科院一区，影响因子8.3).’’
   
-* **<span style="color:red;">[Dataset:]</span>** Our dataset "[FFA-IR: Towards an Explainable and Reliable Medical Report Generation Benchmark (version 1.1.0)](https://physionet.org/content/ffa-ir-medical-report/1.1.0/) has been published on the platform of PhysioNet.’’(January 2025)
+* 🗓️ [2025-01] Our dataset "[FFA-IR: Towards an Explainable and Reliable Medical Report Generation Benchmark (version 1.1.0)](https://physionet.org/content/ffa-ir-medical-report/1.1.0/) has been published on the platform of PhysioNet.’’
 
-* **<span style="color:red;">[Paper:]</span>** Our paper "[HC-LLM: Historical-Constrained Large Language Models for Radiology Report Generation](https://arxiv.org/pdf/2412.11070) has been accepted by AAAI2025.’’(December 2024)
+* 🗓️ [2024-12] Our paper "[HC-LLM: Historical-Constrained Large Language Models for Radiology Report Generation](https://arxiv.org/pdf/2412.11070) has been accepted by AAAI Conference on Artificial Intelligence(AAAI2025,CCF-A类).’’
 
 * **<span style="color:red;">[Paper:]</span>** Our paper "[Balancing Accuracy and Efficiency with a Multiscale Uncertainty-aware Knowledge-based Network for Transmission Line Inspection](https://ieeexplore.ieee.org/abstract/document/10841846) has been accepted by TII.’’(November 2024)
 
