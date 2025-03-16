@@ -17,9 +17,9 @@ My research interests include Long Document Understanding, Multi-modal Represent
 
 # 📢 <span style="color:red;">News</span>
 
-* 🗓️ [2025-03-11] Our paper "Hierarchical Multi-modal Transformer for Cross-modal Long Document Classification has been accepted by IEEE Transactions on Multimedia(TMM).’’
+* 🗓️ [2025-03-11] Our paper "Hierarchical Multi-modal Transformer for Cross-modal Long Document Classification has been accepted by **IEEE Transactions on Multimedia(TMM)**.’’
   
-* 🗓️ [2025-01-11] Our paper "[Tackling Real-world Complexity: Hierarchical Modeling and Dynamic Prompting for Multimodal Long Document Classification](https://ieeexplore.ieee.org/document/10869505) has been accepted by IEEE Transactions on Circuits and Systems for Video Technology(TCSVT).’’
+* 🗓️ [2025-01-11] Our paper "[Tackling Real-world Complexity: Hierarchical Modeling and Dynamic Prompting for Multimodal Long Document Classification](https://ieeexplore.ieee.org/document/10869505) has been accepted by **IEEE Transactions on Circuits and Systems for Video Technology(TCSVT)**.’’
   
 * **<span style="color:red;">[Dataset:]</span>** Our dataset "[FFA-IR: Towards an Explainable and Reliable Medical Report Generation Benchmark (version 1.1.0)](https://physionet.org/content/ffa-ir-medical-report/1.1.0/) has been published on the platform of PhysioNet.’’(January 2025)
 
