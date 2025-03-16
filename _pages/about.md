@@ -16,6 +16,8 @@ My research interests include Long Document Understanding, Multi-modal Represent
 - Multi-modal Long Document Classification Datasets[[Link]](https://drive.google.com/drive/folders/1759nBGt7J0ZkUK8-jSbAys9_SANQVC-E)
 
 # <i><span style="color:red;">News</span></i>
+# 📢 <span style="color:red;">News</span>
+
 * **<span style="color:red;">[Paper:]</span>** Our paper "[Hierarchical Multi-modal Transformer for Cross-modal Long Document Classification] has been accepted by TMM.’’(March 2025)
   
 * **<span style="color:red;">[Paper:]</span>** Our paper "[Tackling Real-world Complexity: Hierarchical Modeling and Dynamic Prompting for Multimodal Long Document Classification](https://ieeexplore.ieee.org/document/10869505) has been accepted by TCSVT.’’(January 2025)
