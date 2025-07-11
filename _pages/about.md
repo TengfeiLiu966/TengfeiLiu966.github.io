@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I received my Ph.D. degree from Beijing University of Technology (北京工业大学) in June 2025, where I was supervised by Prof. [Yongli Hu](https://ieeexplore.ieee.org/author/37420507000) ([胡永利]). I am currently a faculty member at the same university. From February 2024 to February 2025, I was a visiting student at the University of Technology Sydney (UTS), working under the supervision of Prof. [Xiaojun Chang](https://ieeexplore.ieee.org/author/37085779024)([常晓军](https://www.xiaojun.ai/)) and Prof. [Hanyu Gu](https://profiles.uts.edu.au/Hanyu.Gu).
+I received my Ph.D. degree from Beijing University of Technology (北京工业大学) in June 2025, where I was supervised by Prof. [Yongli Hu](https://ieeexplore.ieee.org/author/37420507000) (胡永利). I am currently a faculty member at the same university. From February 2024 to February 2025, I was a visiting student at the University of Technology Sydney (UTS), working under the supervision of Prof. [Xiaojun Chang](https://ieeexplore.ieee.org/author/37085779024)([常晓军](https://www.xiaojun.ai/)) and Prof. [Hanyu Gu](https://profiles.uts.edu.au/Hanyu.Gu).
 
 My research interests include Long Document Understanding, Multi-modal Representation, and Radiology Report Generation.
 
