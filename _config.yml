@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Tengfei Liu"
 title_separator          : "-"
 name                     : &name "Tengfei Liu (刘腾飞)"
-description              : &description "PhD student from Beijing University of Technology"
+description              : &description "Beijing University of Technology"
 url                      : https://tengfeiliu966.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "TengfeiLiu966/tengfeiliu966.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "tengfei.jpg"
   name             : "Tengfei Liu (刘腾飞)"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student from Beijing University of Technology"
-  location         : "Sydney, Australia"
-  employer         : "Beijing University of technology"
+  bio              : "Beijing University of Technology"
+  location         : "Beiijng, China"
+  employer         : "Beijing University of Technology"
   uri              : # URL
-  email            : "tfliu@emails.bjut.edu.cn" 
+  email            : "Tengfei.Liu0821@outlook.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
