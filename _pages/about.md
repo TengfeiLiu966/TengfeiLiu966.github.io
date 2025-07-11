@@ -17,7 +17,7 @@ My research interests include Long Document Understanding, Multi-modal Represent
 # 📢 <span style="color:red;">News</span>
 
 * 🗓️ [2025-07] Our paper "Towards Efficient Power Scene Detection via Topology-preserved Knowledge Distillation has been accepted by *IEEE Transactions on Industrial Informatics*(JCR一区，中科院一区，影响因子11.7).’’
-* 
+  
 * 🗓️ [2025-03] Our paper "Hierarchical Multi-modal Transformer for Cross-modal Long Document Classification has been accepted by *IEEE Transactions on Multimedia*(JCR一区，中科院一区，影响因子8.4).’’
   
 * 🗓️ [2025-01] Our paper "[Tackling Real-world Complexity: Hierarchical Modeling and Dynamic Prompting for Multimodal Long Document Classification](https://ieeexplore.ieee.org/document/10869505) has been accepted by *IEEE Transactions on Circuits and Systems for Video Technology*(JCR一区，中科院一区，影响因子8.3).’’
